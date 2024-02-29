@@ -3,7 +3,7 @@ import React from 'react'
 const Bookcard = () => {
   return (
     <>
-    <div className="w-[200px] h-[350px] m-5 md:w-[200px] lg:w-[200px] shadow-lg ">
+    <div className="w-[300px] h-[450px] m-5 md:w-[300px] lg:w-[300px] shadow-lg ">
       
         <div className=' h-[70%] bg-black'>
         <div className="h-full w-full overflow-hidden rounded">
